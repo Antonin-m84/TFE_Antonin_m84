@@ -1,0 +1,3 @@
+[submodule "Time of Flight/Codes/CubeIDE_F401RE_Example_I2C"]
+	path = Time of Flight/Codes/CubeIDE_F401RE_Example_I2C
+	url = https://github.com/Antonin-m84/TFE_Antonin_m84.git
